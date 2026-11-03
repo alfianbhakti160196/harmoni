@@ -1,1 +1,0 @@
-kebutuhan_api/sinta.md
